@@ -25,7 +25,7 @@ section {
   }
 }
 
-@media (width >= 80em) {
+@media (width >=80em) {
   #smartphones-img {
     display: none;
   }
